@@ -6,6 +6,7 @@
 * b64_rev base64编码反转
 * xor 动态秘钥编码器解码器
 * rsa RSA加密
+* aes_b64 aes静态密钥编码
 
 
 参考
